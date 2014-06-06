@@ -1,0 +1,3 @@
+
+python convert.py <labels_map >sed_script1.sh
+bash sed_script1.sh <input_file >outpuf ile
