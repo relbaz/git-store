@@ -349,7 +349,8 @@
 127.0.0.1 vcdn.adnxs.com
 127.0.0.1 ib.adnxs.com
 127.0.0.1 cdn.adnxs.com
-127.0.0.1 nym1-ib.adnxs.com
+127.0.0.1 nym1.ib.adnxs.com
+127.0.0.1 nym2.ib.adnxs.com
 127.0.0.1 odb.outbrain.com
 127.0.0.1 log.outbrain.com
 127.0.0.1 images.outbrain.com
@@ -358,3 +359,7 @@
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 b.scorecardresearch.com
+127.0.0.1 cdn.flashtalking.com
+127.0.0.1 us-ads.openx.net
+127.0.0.1 servedby.flashtalking.com
+
